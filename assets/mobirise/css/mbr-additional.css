@@ -682,11 +682,12 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sFHpMqcXGj .navbar-dropdown {
-  position: relative !important;
+.cid-sFHpMqcXGj {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-sFHpMqcXGj .navbar-dropdown {
-  position: absolute !important;
+.cid-sFHpMqcXGj nav.navbar {
+  position: fixed;
 }
 .cid-sFHpMqcXGj .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -784,7 +785,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(210, 253, 255, 0);
+  background: rgba(210, 253, 255, 0.5);
 }
 .cid-sFHpMqcXGj .navbar.opened {
   transition: all 0.3s;
@@ -997,6 +998,7 @@ a {
 }
 .cid-sFHpMqcXGj .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-sFHpMqcXGj a.nav-link {
   display: flex;
@@ -1026,7 +1028,9 @@ a {
   }
 }
 .cid-sFHoAfPmXB {
-  background-image: url("../../../assets/images/theyogiclens-1536x1536.jpg");
+  padding-top: 21rem;
+  padding-bottom: 16rem;
+  background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.jpg");
 }
 .cid-sFHoAfPmXB .image-wrap img {
   width: 100%;
@@ -1045,7 +1049,7 @@ a {
 .cid-sFHr5fwP9J {
   padding-top: 5rem;
   padding-bottom: 0rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.jpg");
 }
 .cid-sFHr5fwP9J .timeline-element {
   position: relative;
@@ -1135,7 +1139,11 @@ a {
 .cid-uezNUuWjNR {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.jpg");
+}
+.cid-uezNUuWjNR .mbr-overlay {
+  background: #fafafa;
+  opacity: 0.7;
 }
 .cid-uezNUuWjNR img,
 .cid-uezNUuWjNR .item-img {
@@ -1275,9 +1283,7 @@ a {
   -webkit-tap-highlight-color: transparent;
 }
 .cid-sFHtEv8xMy {
-  padding-top: 3rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.jpg");
 }
 .cid-sFHtEv8xMy .number-wrap {
   color: #232323;
@@ -1308,7 +1314,7 @@ a {
 .cid-sFHvmoQ5Jg {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.jpg");
 }
 .cid-sFHvmoQ5Jg .row {
   align-items: center;
@@ -1332,6 +1338,44 @@ a {
 .cid-sFHvmoQ5Jg .image-wrapper img {
   width: 100%;
   object-fit: cover;
+}
+.cid-ueBDDsJzJS {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.jpg");
+}
+.cid-ueBDDsJzJS .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ueBDDsJzJS .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ueBDDsJzJS .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #fbe8a6;
+  margin-bottom: 2rem;
+}
+.cid-ueBDDsJzJS .card-wrapper {
+  padding: 3rem;
+  background: #fafafa;
+  border-radius: 4px;
+}
+@media (max-width: 992px) {
+  .cid-ueBDDsJzJS .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-ueBDDsJzJS .card-wrapper {
+    padding: 3rem 1rem;
+  }
 }
 .cid-sFHu2wLoQp {
   padding-top: 30px;
