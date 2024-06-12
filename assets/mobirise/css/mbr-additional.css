@@ -1643,26 +1643,44 @@ a {
 .cid-sFHtEv8xMy .mbr-section-btn {
   margin-bottom: 1.2rem;
 }
-.cid-ufpaaPSINw {
+.cid-ufvTVoivJz {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.png");
+  background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.jpg");
 }
-.cid-ufpaaPSINw .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.7;
+.cid-ufvTVoivJz .mbr-fallback-image.disabled {
+  display: none;
 }
-.cid-ufpaaPSINw form .mbr-section-btn {
-  text-align: center;
+.cid-ufvTVoivJz .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
   width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
-.cid-ufpaaPSINw form .mbr-section-btn .btn {
-  display: inline-flex;
+.cid-ufvTVoivJz .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
 }
-@media (max-width: 991px) {
-  .cid-ufpaaPSINw form .mbr-section-btn .btn {
-    width: 100%;
-  }
+.cid-ufvTVoivJz .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-ufvTVoivJz .mbr-iconfont {
+  padding-left: 1rem;
+  font-family: 'Moririse2' !important;
+  font-size: 1.4rem !important;
+  color: #fbe8a6;
+}
+.cid-ufvTVoivJz .panel-body,
+.cid-ufvTVoivJz .card-header {
+  padding: 1rem 0;
+}
+.cid-ufvTVoivJz .panel-title-edit {
+  color: #000000;
 }
 .cid-sFHvmoQ5Jg {
   padding-top: 6rem;
@@ -1733,6 +1751,27 @@ a {
   font-size: 2rem;
   padding-right: 1.5rem;
   color: #fbe8a6;
+}
+.cid-ufpaaPSINw {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/vlc-768x768.png");
+}
+.cid-ufpaaPSINw .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.7;
+}
+.cid-ufpaaPSINw form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-ufpaaPSINw form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-ufpaaPSINw form .mbr-section-btn .btn {
+    width: 100%;
+  }
 }
 .cid-sFHu2wLoQp {
   padding-top: 30px;
