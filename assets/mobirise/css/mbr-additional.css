@@ -1643,6 +1643,27 @@ a {
 .cid-sFHtEv8xMy .mbr-section-btn {
   margin-bottom: 1.2rem;
 }
+.cid-ufpaaPSINw {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.png");
+}
+.cid-ufpaaPSINw .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.7;
+}
+.cid-ufpaaPSINw form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-ufpaaPSINw form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-ufpaaPSINw form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
 .cid-sFHvmoQ5Jg {
   padding-top: 6rem;
   padding-bottom: 6rem;
