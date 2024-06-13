@@ -1773,6 +1773,27 @@ a {
     width: 100%;
   }
 }
+.cid-ufxrp0PFpJ {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/vlc-768x768.png");
+}
+.cid-ufxrp0PFpJ .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.6;
+}
+@media (min-width: 992px) {
+  .cid-ufxrp0PFpJ form {
+    width: 50%;
+  }
+}
+.cid-ufxrp0PFpJ form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-ufxrp0PFpJ form .mbr-section-btn .btn {
+  width: 100%;
+}
 .cid-sFHu2wLoQp {
   padding-top: 30px;
   padding-bottom: 30px;
