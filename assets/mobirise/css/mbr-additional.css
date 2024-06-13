@@ -1052,7 +1052,7 @@ a {
   background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.jpg");
 }
 .cid-uezNUuWjNR .mbr-overlay {
-  background: #fafafa;
+  background: #ffffff;
   opacity: 0.7;
 }
 .cid-uezNUuWjNR img,
@@ -1198,7 +1198,7 @@ a {
   background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.png");
 }
 .cid-ueKIFCSt5h .mbr-overlay {
-  background: #fafafa;
+  background: #ffffff;
   opacity: 0.7;
 }
 .cid-ueKIFCSt5h img,
@@ -1614,34 +1614,33 @@ a {
 .cid-ueYtCumSsL H6 {
   text-align: center;
 }
-.cid-sFHtEv8xMy {
+.cid-sFHvmoQ5Jg {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.jpg");
 }
-.cid-sFHtEv8xMy .number-wrap {
-  color: #232323;
-  text-align: center;
+.cid-sFHvmoQ5Jg .row {
+  align-items: center;
 }
-.cid-sFHtEv8xMy .number {
-  color: #232323;
-  white-space: nowrap;
-}
-.cid-sFHtEv8xMy .period {
-  display: block;
-}
-.cid-sFHtEv8xMy .dot {
-  display: none;
-}
-@media (max-width: 767px) {
-  .cid-sFHtEv8xMy .period {
-    font-size: 0.8rem;
+@media (max-width: 991px) {
+  .cid-sFHvmoQ5Jg .row {
+    flex-direction: column-reverse;
+  }
+  .cid-sFHvmoQ5Jg .image-wrapper {
+    margin-bottom: 2rem;
+  }
+  .cid-sFHvmoQ5Jg .card-wrapper {
+    padding: 0 1rem;
   }
 }
-.cid-sFHtEv8xMy .btn {
-  height: 100%;
-  margin: 0;
+@media (min-width: 992px) {
+  .cid-sFHvmoQ5Jg .card-wrapper {
+    padding-right: 2rem;
+  }
 }
-.cid-sFHtEv8xMy .mbr-section-btn {
-  margin-bottom: 1.2rem;
+.cid-sFHvmoQ5Jg .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
 }
 .cid-ufvTVoivJz {
   padding-top: 6rem;
@@ -1682,33 +1681,93 @@ a {
 .cid-ufvTVoivJz .panel-title-edit {
   color: #000000;
 }
-.cid-sFHvmoQ5Jg {
+.cid-ufy3FfVv9S {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.jpg");
+}
+.cid-ufy3FfVv9S .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ufy3FfVv9S .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ufy3FfVv9S .number-wrap {
+  color: #353535;
+  text-align: center;
+}
+.cid-ufy3FfVv9S .number {
+  color: #353535;
+}
+.cid-ufy3FfVv9S .period {
+  display: block;
+}
+.cid-ufy3FfVv9S .dot {
+  display: none;
+}
+@media (max-width: 767px) {
+  .cid-ufy3FfVv9S .period {
+    font-size: 0.8rem;
+  }
+}
+.cid-ufy3FfVv9S .btn {
+  height: 100%;
+  margin: 0;
+}
+.cid-ufy3FfVv9S .mbr-section-btn {
+  margin-bottom: 1.2rem;
+}
+.cid-ufy3FfVv9S .icons-menu .soc-item {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.cid-ufy3FfVv9S .icons-menu .soc-item .mbr-iconfont {
+  font-size: 2rem;
+  display: flex;
+  border-radius: 50%;
+  text-align: center;
+  color: #353535;
+  border: 2px solid #353535;
+  justify-content: center;
+  align-content: center;
+  transition: all 0.3s;
+}
+.cid-ufy3FfVv9S .icons-menu .soc-item .mbr-iconfont:before {
+  padding: 0.6rem;
+}
+.cid-ufy3FfVv9S .icons-menu .soc-item .mbr-iconfont:hover {
+  background-color: #353535;
+  color: #ffffff;
+}
+.cid-ufxRupmq0W {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.jpg");
 }
-.cid-sFHvmoQ5Jg .row {
-  align-items: center;
+.cid-ufxRupmq0W .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.7;
+}
+.cid-ufxRupmq0W form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-ufxRupmq0W form .mbr-section-btn .btn {
+  display: inline-flex;
 }
 @media (max-width: 991px) {
-  .cid-sFHvmoQ5Jg .row {
-    flex-direction: column-reverse;
-  }
-  .cid-sFHvmoQ5Jg .image-wrapper {
-    margin-bottom: 2rem;
-  }
-  .cid-sFHvmoQ5Jg .card-wrapper {
-    padding: 0 1rem;
+  .cid-ufxRupmq0W form .mbr-section-btn .btn {
+    width: 100%;
   }
 }
-@media (min-width: 992px) {
-  .cid-sFHvmoQ5Jg .card-wrapper {
-    padding-right: 2rem;
-  }
-}
-.cid-sFHvmoQ5Jg .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
+.cid-ufxRupmq0W .mbr-section-subtitle {
+  color: #232323;
 }
 .cid-ueLbINznkl {
   padding-top: 5rem;
@@ -1735,7 +1794,7 @@ a {
   margin-bottom: 2rem;
   display: flex;
   border-radius: 4px;
-  background: #fafafa;
+  background: #ffffff;
 }
 @media (max-width: 991px) {
   .cid-ueLbINznkl .card-wrapper {
@@ -1751,48 +1810,6 @@ a {
   font-size: 2rem;
   padding-right: 1.5rem;
   color: #fbe8a6;
-}
-.cid-ufpaaPSINw {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/vlc-768x768.png");
-}
-.cid-ufpaaPSINw .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.7;
-}
-.cid-ufpaaPSINw form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-ufpaaPSINw form .mbr-section-btn .btn {
-  display: inline-flex;
-}
-@media (max-width: 991px) {
-  .cid-ufpaaPSINw form .mbr-section-btn .btn {
-    width: 100%;
-  }
-}
-.cid-ufxrp0PFpJ {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/vlc-768x768.png");
-}
-.cid-ufxrp0PFpJ .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.6;
-}
-@media (min-width: 992px) {
-  .cid-ufxrp0PFpJ form {
-    width: 50%;
-  }
-}
-.cid-ufxrp0PFpJ form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-ufxrp0PFpJ form .mbr-section-btn .btn {
-  width: 100%;
 }
 .cid-sFHu2wLoQp {
   padding-top: 30px;
