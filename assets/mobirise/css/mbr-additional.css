@@ -1783,15 +1783,6 @@ a {
   padding-right: 1.5rem;
   color: #fbe8a6;
 }
-.cid-sFHu2wLoQp {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-  overflow: hidden;
-}
-.cid-sFHu2wLoQp .row .mbr-text {
-  color: #232323;
-}
 .cid-sFHvmoQ5Jg {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1819,6 +1810,15 @@ a {
 .cid-sFHvmoQ5Jg .image-wrapper img {
   width: 100%;
   object-fit: cover;
+}
+.cid-sFHu2wLoQp {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.cid-sFHu2wLoQp .row .mbr-text {
+  color: #232323;
 }
 .cid-ufDqp1MG7T {
   z-index: 1000;
