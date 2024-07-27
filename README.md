@@ -1,5 +1,5 @@
 # theyogiclens.org
-DISCLAIMER: THIS GETS A LITTLE ESOTERIC, IF YOU CONSIDER YOURSELF A LOGICAL PERSON, THIS MAY NOT BE A GOOD FIT FOR YOU. 
+DISCLAIMER: THIS GETS A LITTLE ESOTERIC, IF YOU CONSIDER YOURSELF A LOGICAL PERSON, THIS MAY or MAY NOT BE A GOOD FIT FOR YOU. 
 
 CAUTION: We are lingering in an OPEN, FREE, but SAFE SPACE just like our beautiful COSMOS. If we have certain inhibitions, they might be exposed in this path forward as we get ready to shine the light on ourselves and beyond. If you bumped into theyogiclens.org, and you liked the website and you would want to have something like that for yourself, you have come to the right place. If not, I will try to keep the important information short.
 
