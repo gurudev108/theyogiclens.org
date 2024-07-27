@@ -1046,6 +1046,73 @@ a {
 .cid-sFHoAfPmXB .mbr-section-btn {
   text-align: center;
 }
+.cid-ufy3FfVv9S {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.jpg");
+}
+.cid-ufy3FfVv9S .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ufy3FfVv9S .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ufy3FfVv9S .number-wrap {
+  color: #353535;
+  text-align: center;
+}
+.cid-ufy3FfVv9S .number {
+  color: #353535;
+}
+.cid-ufy3FfVv9S .period {
+  display: block;
+}
+.cid-ufy3FfVv9S .dot {
+  display: none;
+}
+@media (max-width: 767px) {
+  .cid-ufy3FfVv9S .period {
+    font-size: 0.8rem;
+  }
+}
+.cid-ufy3FfVv9S .btn {
+  height: 100%;
+  margin: 0;
+}
+.cid-ufy3FfVv9S .mbr-section-btn {
+  margin-bottom: 1.2rem;
+}
+.cid-ufy3FfVv9S .icons-menu .soc-item {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.cid-ufy3FfVv9S .icons-menu .soc-item .mbr-iconfont {
+  font-size: 2rem;
+  display: flex;
+  border-radius: 50%;
+  text-align: center;
+  color: #353535;
+  border: 2px solid #353535;
+  justify-content: center;
+  align-content: center;
+  transition: all 0.3s;
+}
+.cid-ufy3FfVv9S .icons-menu .soc-item .mbr-iconfont:before {
+  padding: 0.6rem;
+}
+.cid-ufy3FfVv9S .icons-menu .soc-item .mbr-iconfont:hover {
+  background-color: #353535;
+  color: #ffffff;
+}
+.cid-ufy3FfVv9S .mbr-section-subtitle {
+  color: #232323;
+}
 .cid-uezNUuWjNR {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1653,93 +1720,33 @@ a {
 .cid-ufvTVoivJz .panel-title-edit {
   color: #000000;
 }
-.cid-ufy3FfVv9S {
+.cid-sFHvmoQ5Jg {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.jpg");
 }
-.cid-ufy3FfVv9S .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-ufy3FfVv9S .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-ufy3FfVv9S .number-wrap {
-  color: #353535;
-  text-align: center;
-}
-.cid-ufy3FfVv9S .number {
-  color: #353535;
-}
-.cid-ufy3FfVv9S .period {
-  display: block;
-}
-.cid-ufy3FfVv9S .dot {
-  display: none;
-}
-@media (max-width: 767px) {
-  .cid-ufy3FfVv9S .period {
-    font-size: 0.8rem;
-  }
-}
-.cid-ufy3FfVv9S .btn {
-  height: 100%;
-  margin: 0;
-}
-.cid-ufy3FfVv9S .mbr-section-btn {
-  margin-bottom: 1.2rem;
-}
-.cid-ufy3FfVv9S .icons-menu .soc-item {
-  padding-left: 8px;
-  padding-right: 8px;
-}
-.cid-ufy3FfVv9S .icons-menu .soc-item .mbr-iconfont {
-  font-size: 2rem;
-  display: flex;
-  border-radius: 50%;
-  text-align: center;
-  color: #353535;
-  border: 2px solid #353535;
-  justify-content: center;
-  align-content: center;
-  transition: all 0.3s;
-}
-.cid-ufy3FfVv9S .icons-menu .soc-item .mbr-iconfont:before {
-  padding: 0.6rem;
-}
-.cid-ufy3FfVv9S .icons-menu .soc-item .mbr-iconfont:hover {
-  background-color: #353535;
-  color: #ffffff;
-}
-.cid-ufxRupmq0W {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.jpg");
-}
-.cid-ufxRupmq0W .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.7;
-}
-.cid-ufxRupmq0W form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-ufxRupmq0W form .mbr-section-btn .btn {
-  display: inline-flex;
+.cid-sFHvmoQ5Jg .row {
+  align-items: center;
 }
 @media (max-width: 991px) {
-  .cid-ufxRupmq0W form .mbr-section-btn .btn {
-    width: 100%;
+  .cid-sFHvmoQ5Jg .row {
+    flex-direction: column-reverse;
+  }
+  .cid-sFHvmoQ5Jg .image-wrapper {
+    margin-bottom: 2rem;
+  }
+  .cid-sFHvmoQ5Jg .card-wrapper {
+    padding: 0 1rem;
   }
 }
-.cid-ufxRupmq0W .mbr-section-subtitle {
-  color: #232323;
+@media (min-width: 992px) {
+  .cid-sFHvmoQ5Jg .card-wrapper {
+    padding-right: 2rem;
+  }
+}
+.cid-sFHvmoQ5Jg .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
 }
 .cid-ueLbINznkl {
   padding-top: 5rem;
@@ -1786,33 +1793,46 @@ a {
 .cid-ueLbINznkl .mbr-section-subtitle DIV {
   text-align: center;
 }
-.cid-sFHvmoQ5Jg {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+.cid-ufxRupmq0W {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.jpg");
 }
-.cid-sFHvmoQ5Jg .row {
-  align-items: center;
+.cid-ufxRupmq0W .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.8;
+}
+.cid-ufxRupmq0W form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-ufxRupmq0W form .mbr-section-btn .btn {
+  display: inline-flex;
 }
 @media (max-width: 991px) {
-  .cid-sFHvmoQ5Jg .row {
-    flex-direction: column-reverse;
-  }
-  .cid-sFHvmoQ5Jg .image-wrapper {
-    margin-bottom: 2rem;
-  }
-  .cid-sFHvmoQ5Jg .card-wrapper {
-    padding: 0 1rem;
+  .cid-ufxRupmq0W form .mbr-section-btn .btn {
+    width: 100%;
   }
 }
-@media (min-width: 992px) {
-  .cid-sFHvmoQ5Jg .card-wrapper {
-    padding-right: 2rem;
-  }
+.cid-ufxRupmq0W .mbr-section-subtitle {
+  color: #232323;
 }
-.cid-sFHvmoQ5Jg .image-wrapper img {
+.cid-ujLa4OW4bl {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-ujLa4OW4bl .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ujLa4OW4bl .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
   width: 100%;
-  object-fit: cover;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
 .cid-sFHu2wLoQp {
   padding-top: 30px;
@@ -1821,378 +1841,5 @@ a {
   overflow: hidden;
 }
 .cid-sFHu2wLoQp .row .mbr-text {
-  color: #232323;
-}
-.cid-ufDqp1MG7T {
-  z-index: 1000;
-  width: 100%;
-}
-.cid-ufDqp1MG7T nav.navbar {
-  position: fixed;
-}
-.cid-ufDqp1MG7T .dropdown-item:before {
-  font-family: Moririse2 !important;
-  content: "\e966";
-  display: inline-block;
-  width: 0;
-  position: absolute;
-  left: 1rem;
-  top: 0.5rem;
-  margin-right: 0.5rem;
-  line-height: 1;
-  font-size: inherit;
-  vertical-align: middle;
-  text-align: center;
-  overflow: hidden;
-  transform: scale(0, 1);
-  transition: all 0.25s ease-in-out;
-}
-.cid-ufDqp1MG7T .dropdown-menu {
-  padding: 0;
-  border-radius: 4px;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-}
-.cid-ufDqp1MG7T .dropdown-item {
-  border-bottom: 1px solid #e6e6e6;
-}
-.cid-ufDqp1MG7T .dropdown-item:hover,
-.cid-ufDqp1MG7T .dropdown-item:focus {
-  background: #fbe8a6 !important;
-  color: white !important;
-}
-.cid-ufDqp1MG7T .dropdown-item:first-child {
-  border-top-left-radius: 4px;
-  border-top-right-radius: 4px;
-}
-.cid-ufDqp1MG7T .dropdown-item:last-child {
-  border-bottom: none;
-  border-bottom-left-radius: 4px;
-  border-bottom-right-radius: 4px;
-}
-.cid-ufDqp1MG7T .nav-dropdown .link {
-  padding: 0 0.3em !important;
-  margin: 0.667em 1em !important;
-}
-.cid-ufDqp1MG7T .nav-dropdown .link.dropdown-toggle::after {
-  margin-left: 0.5rem;
-  margin-top: 0.2rem;
-}
-.cid-ufDqp1MG7T .nav-link {
-  position: relative;
-}
-.cid-ufDqp1MG7T .container {
-  display: flex;
-  margin: auto;
-}
-.cid-ufDqp1MG7T .iconfont-wrapper {
-  color: #000000 !important;
-  font-size: 1.5rem;
-  padding-right: 0.5rem;
-}
-.cid-ufDqp1MG7T .dropdown-menu,
-.cid-ufDqp1MG7T .navbar.opened {
-  background: #d2fdff !important;
-}
-.cid-ufDqp1MG7T .nav-item:focus,
-.cid-ufDqp1MG7T .nav-link:focus {
-  outline: none;
-}
-.cid-ufDqp1MG7T .dropdown .dropdown-menu .dropdown-item {
-  width: auto;
-  transition: all 0.25s ease-in-out;
-}
-.cid-ufDqp1MG7T .dropdown .dropdown-menu .dropdown-item::after {
-  right: 0.5rem;
-}
-.cid-ufDqp1MG7T .dropdown .dropdown-menu .dropdown-item .mbr-iconfont {
-  margin-right: 0.5rem;
-  vertical-align: sub;
-}
-.cid-ufDqp1MG7T .dropdown .dropdown-menu .dropdown-item .mbr-iconfont:before {
-  display: inline-block;
-  transform: scale(1, 1);
-  transition: all 0.25s ease-in-out;
-}
-.cid-ufDqp1MG7T .collapsed .dropdown-menu .dropdown-item:before {
-  display: none;
-}
-.cid-ufDqp1MG7T .collapsed .dropdown .dropdown-menu .dropdown-item {
-  padding: 0.235em 1.5em 0.235em 1.5em !important;
-  transition: none;
-  margin: 0 !important;
-}
-.cid-ufDqp1MG7T .navbar {
-  min-height: 70px;
-  transition: all 0.3s;
-  border-bottom: 1px solid transparent;
-  position: absolute;
-  background: rgba(210, 253, 255, 0.3);
-}
-.cid-ufDqp1MG7T .navbar.opened {
-  transition: all 0.3s;
-}
-.cid-ufDqp1MG7T .navbar .dropdown-item {
-  padding: 0.5rem 1.8rem;
-}
-.cid-ufDqp1MG7T .navbar .navbar-logo img {
-  width: auto;
-}
-.cid-ufDqp1MG7T .navbar .navbar-collapse {
-  justify-content: flex-end;
-  z-index: 1;
-}
-.cid-ufDqp1MG7T .navbar.collapsed {
-  justify-content: center;
-}
-.cid-ufDqp1MG7T .navbar.collapsed .nav-item .nav-link::before {
-  display: none;
-}
-.cid-ufDqp1MG7T .navbar.collapsed.opened .dropdown-menu {
-  top: 0;
-}
-.cid-ufDqp1MG7T .navbar.collapsed .dropdown-menu .dropdown-submenu {
-  left: 0 !important;
-}
-.cid-ufDqp1MG7T .navbar.collapsed .dropdown-menu .dropdown-item:after {
-  right: auto;
-}
-.cid-ufDqp1MG7T .navbar.collapsed .dropdown-menu .dropdown-toggle[data-toggle="dropdown-submenu"]:after {
-  margin-left: 0.5rem;
-  margin-top: 0.2rem;
-  border-top: 0.35em solid;
-  border-right: 0.35em solid transparent;
-  border-left: 0.35em solid transparent;
-  border-bottom: 0;
-  top: 41%;
-}
-.cid-ufDqp1MG7T .navbar.collapsed ul.navbar-nav li {
-  margin: auto;
-}
-.cid-ufDqp1MG7T .navbar.collapsed .dropdown-menu .dropdown-item {
-  padding: 0.25rem 1.5rem;
-  text-align: center;
-}
-.cid-ufDqp1MG7T .navbar.collapsed .icons-menu {
-  padding-left: 0;
-  padding-right: 0;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-}
-@media (max-width: 991px) {
-  .cid-ufDqp1MG7T .navbar .nav-item .nav-link::before {
-    display: none;
-  }
-  .cid-ufDqp1MG7T .navbar.opened .dropdown-menu {
-    top: 0;
-  }
-  .cid-ufDqp1MG7T .navbar .dropdown-menu .dropdown-submenu {
-    left: 0 !important;
-  }
-  .cid-ufDqp1MG7T .navbar .dropdown-menu .dropdown-item:after {
-    right: auto;
-  }
-  .cid-ufDqp1MG7T .navbar .dropdown-menu .dropdown-toggle[data-toggle="dropdown-submenu"]:after {
-    margin-left: 0.5rem;
-    margin-top: 0.2rem;
-    border-top: 0.35em solid;
-    border-right: 0.35em solid transparent;
-    border-left: 0.35em solid transparent;
-    border-bottom: 0;
-    top: 40%;
-  }
-  .cid-ufDqp1MG7T .navbar .navbar-logo img {
-    height: 3rem !important;
-  }
-  .cid-ufDqp1MG7T .navbar ul.navbar-nav li {
-    margin: auto;
-  }
-  .cid-ufDqp1MG7T .navbar .dropdown-menu .dropdown-item {
-    padding: 0.25rem 1.5rem !important;
-    text-align: center;
-  }
-  .cid-ufDqp1MG7T .navbar .navbar-brand {
-    flex-shrink: initial;
-    flex-basis: auto;
-    word-break: break-word;
-    padding-right: 2rem;
-  }
-  .cid-ufDqp1MG7T .navbar .navbar-toggler {
-    flex-basis: auto;
-  }
-  .cid-ufDqp1MG7T .navbar .icons-menu {
-    padding-left: 0;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-  }
-}
-.cid-ufDqp1MG7T .navbar.navbar-short {
-  min-height: 60px;
-}
-.cid-ufDqp1MG7T .navbar.navbar-short .navbar-logo img {
-  height: 2.5rem !important;
-}
-.cid-ufDqp1MG7T .navbar.navbar-short .navbar-brand {
-  min-height: 60px;
-  padding: 0;
-}
-.cid-ufDqp1MG7T .navbar-brand {
-  min-height: 70px;
-  flex-shrink: 0;
-  align-items: center;
-  margin-right: 0;
-  padding: 10px 0;
-  transition: all 0.3s;
-  word-break: break-word;
-  z-index: 1;
-}
-.cid-ufDqp1MG7T .navbar-brand .navbar-caption {
-  line-height: inherit !important;
-}
-.cid-ufDqp1MG7T .navbar-brand .navbar-logo a {
-  outline: none;
-}
-.cid-ufDqp1MG7T .dropdown-item.active,
-.cid-ufDqp1MG7T .dropdown-item:active {
-  background-color: transparent;
-}
-.cid-ufDqp1MG7T .navbar-expand-lg .navbar-nav .nav-link {
-  padding: 0;
-}
-.cid-ufDqp1MG7T .nav-dropdown .link.dropdown-toggle {
-  margin-right: 1.667em;
-}
-.cid-ufDqp1MG7T .nav-dropdown .link.dropdown-toggle[aria-expanded="true"] {
-  margin-right: 0;
-  padding: 0.667em 1.667em;
-}
-.cid-ufDqp1MG7T .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #d2fdff;
-}
-.cid-ufDqp1MG7T .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
-  margin: 0;
-  left: 100%;
-}
-.cid-ufDqp1MG7T .navbar .dropdown.open > .dropdown-menu {
-  display: block;
-}
-.cid-ufDqp1MG7T ul.navbar-nav {
-  flex-wrap: wrap;
-}
-.cid-ufDqp1MG7T .navbar-buttons {
-  text-align: center;
-  min-width: 170px;
-}
-.cid-ufDqp1MG7T button.navbar-toggler {
-  outline: none;
-  width: 31px;
-  height: 20px;
-  cursor: pointer;
-  transition: all 0.2s;
-  position: relative;
-  align-self: center;
-}
-.cid-ufDqp1MG7T button.navbar-toggler .hamburger span {
-  position: absolute;
-  right: 0;
-  width: 30px;
-  height: 2px;
-  border-right: 5px;
-  background-color: #000000;
-}
-.cid-ufDqp1MG7T button.navbar-toggler .hamburger span:nth-child(1) {
-  top: 0;
-  transition: all 0.2s;
-}
-.cid-ufDqp1MG7T button.navbar-toggler .hamburger span:nth-child(2) {
-  top: 8px;
-  transition: all 0.15s;
-}
-.cid-ufDqp1MG7T button.navbar-toggler .hamburger span:nth-child(3) {
-  top: 8px;
-  transition: all 0.15s;
-}
-.cid-ufDqp1MG7T button.navbar-toggler .hamburger span:nth-child(4) {
-  top: 16px;
-  transition: all 0.2s;
-}
-.cid-ufDqp1MG7T nav.opened .hamburger span:nth-child(1) {
-  top: 8px;
-  width: 0;
-  opacity: 0;
-  right: 50%;
-  transition: all 0.2s;
-}
-.cid-ufDqp1MG7T nav.opened .hamburger span:nth-child(2) {
-  transform: rotate(45deg);
-  transition: all 0.25s;
-}
-.cid-ufDqp1MG7T nav.opened .hamburger span:nth-child(3) {
-  transform: rotate(-45deg);
-  transition: all 0.25s;
-}
-.cid-ufDqp1MG7T nav.opened .hamburger span:nth-child(4) {
-  top: 8px;
-  width: 0;
-  opacity: 0;
-  right: 50%;
-  transition: all 0.2s;
-}
-.cid-ufDqp1MG7T .navbar-dropdown {
-  padding: 0 1rem;
-  position: fixed;
-}
-.cid-ufDqp1MG7T a.nav-link {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.cid-ufDqp1MG7T .icons-menu {
-  flex-wrap: nowrap;
-  display: flex;
-  justify-content: center;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 0.3rem;
-  text-align: center;
-}
-@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
-  .cid-ufDqp1MG7T .navbar {
-    height: 70px;
-  }
-  .cid-ufDqp1MG7T .navbar.opened {
-    height: auto;
-  }
-  .cid-ufDqp1MG7T .nav-item .nav-link:hover::before {
-    width: 175%;
-    max-width: calc(100% + 2rem);
-    left: -1rem;
-  }
-}
-.cid-ufDqp2ke0K {
-  padding-top: 21rem;
-  padding-bottom: 16rem;
-  background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.jpg");
-}
-.cid-ufDqp2ke0K .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-ufDqp2ke0K .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 100%;
-  }
-}
-.cid-ufDqp2ke0K .mbr-text,
-.cid-ufDqp2ke0K .mbr-section-btn {
-  text-align: center;
-}
-.cid-ufDqp78JDD {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-  overflow: hidden;
-}
-.cid-ufDqp78JDD .row .mbr-text {
   color: #232323;
 }
