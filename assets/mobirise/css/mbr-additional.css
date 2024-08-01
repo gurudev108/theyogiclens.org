@@ -1800,7 +1800,7 @@ a {
 }
 .cid-ufxRupmq0W .mbr-overlay {
   background-color: #ffffff;
-  opacity: 0.8;
+  opacity: 0.5;
 }
 .cid-ufxRupmq0W form .mbr-section-btn {
   text-align: center;
@@ -1817,15 +1817,15 @@ a {
 .cid-ufxRupmq0W .mbr-section-subtitle {
   color: #232323;
 }
-.cid-ujLa4OW4bl {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
+.cid-ukaw4WGNG6 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/theyogiclens-painting-1536x1536.png");
 }
-.cid-ujLa4OW4bl .mbr-fallback-image.disabled {
+.cid-ukaw4WGNG6 .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ujLa4OW4bl .mbr-fallback-image {
+.cid-ukaw4WGNG6 .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1833,6 +1833,29 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-ukaw4WGNG6 .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-ukaw4WGNG6 .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-ukaw4WGNG6 .mbr-iconfont {
+  padding-left: 1rem;
+  font-family: 'Moririse2' !important;
+  font-size: 1.4rem !important;
+  color: #fbe8a6;
+}
+.cid-ukaw4WGNG6 .panel-body,
+.cid-ukaw4WGNG6 .card-header {
+  padding: 1rem 0;
+}
+.cid-ukaw4WGNG6 .panel-title-edit {
+  color: #000000;
+  text-align: center;
 }
 .cid-sFHu2wLoQp {
   padding-top: 30px;
